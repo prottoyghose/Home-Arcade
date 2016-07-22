@@ -8,6 +8,7 @@
     <title>NW HomeArcade</title>
     <link href="./bootstrap.min.css" rel="stylesheet">
     <link href="./dashboard.css" rel="stylesheet">  
+    <link rel="icon" href="./favicon.ico">
   </head>
   <body>
     <nav class="navbar navbar-inverse navbar-fixed-top">
@@ -23,7 +24,7 @@
         </div>
           <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav navbar-right">
-            <li><a href="#">Logout</a></li>
+            <li><a href="./logout.php">Logout</a></li>
           </ul>
           <form class="navbar-form navbar-right">
               <input type="text" class="form-control" placeholder="Search...">
@@ -37,8 +38,10 @@
           <ul class="nav nav-sidebar">
             <li><a href="./index.php">Catalog</a></li>
             <li><a href="#">Profile</a></li>
-          </ul>            
-          <button class="btn btn-danger btn-lg dropdown-toggle" type="button">
+          </ul> 
+          <a href="https://www.nationwide.com/property-claims.jsp" class="btn btn-danger btn-lg dropdown-toggle" type="button">
             File Claim
-          </button>
+          </a>
+          <br><br>
+          <a class="btn btn-default" href="feedback.php">Give us feedback</a>
         </div>
