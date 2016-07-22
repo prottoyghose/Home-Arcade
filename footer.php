@@ -1,7 +1,8 @@
-    <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2">
+<br><br><br>    
+<div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2">
         <div class="panel panel-primary footer">
           <div class="panel-body">
-            <a class="btn btn-default" href="">Give us feedback</a>
+            <a class="btn btn-default" href="feedback.php">Give us feedback</a>
             <br>
             <br>
             <a class="btn btn-default" href="https://www.facebook.com/nationwide/">
@@ -15,9 +16,12 @@
             </a>
             <br>
             <br>
-             <a href="">FAQ |</a> 
-             <a href=""> About us | </a>
-             <a href="">Contact us </a>
+             <a href="">FAQ</a> |
+             <a href="">About us</a> | 
+             <a href="">Contact us</a> | 
+             <a href="./pokemon.jpg">Careers</a>
+            <br><br>  
+            <b>Nationwide is on your side®</b> 
           </div>
         </div>
       </div>

@@ -8,6 +8,7 @@
     <title>NW HomeArcade</title>
     <link href="./bootstrap.min.css" rel="stylesheet">
     <link href="./dashboard.css" rel="stylesheet">  
+    <link rel="icon" href="./favicon.ico">
   </head>
   <body>
     <nav class="navbar navbar-inverse navbar-fixed-top">
