@@ -10,8 +10,8 @@
               </ul>
             </div>
             <div class="btn-group">
-              <button class="btn btn-default btn-lg dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Add Photos <span class="glyphicon glyphicon-plus"></span>
-              </button>
+              <a href="form.php" class="btn btn-default btn-lg dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Add Photos <span class="glyphicon glyphicon-plus"></span>
+              </a>
               <ul class="dropdown-menu">
                 ...
               </ul>
